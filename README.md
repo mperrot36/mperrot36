@@ -18,21 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 # <p align="center">Mes compétences très techniques</p>
   
-
-    
-
-# <p align="center">Qu'est ce que je fait </p>
-  
-
-
-
-        
-
-
-        
-
-        
-
         
 | Ce que j'ai appris | Ce que j'apprends | 
 | -------- | -------- |
