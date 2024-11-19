@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 ## Pour mieux me connaître 
 -[letterboxd](https://boxd.it/3w3P9)
         
+## Fun facts à propos de moi:
 
+je connais par coeur la chansons des nations par yakko
 
 # <p align="center">Mes compétences très techniques</p>
   
